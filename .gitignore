@@ -1,0 +1,6 @@
+*.env
+/Job_Applications
+Application_Tracker.csv
+resume.pdf
+/data
+/Cold Emails
